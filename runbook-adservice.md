@@ -2,6 +2,8 @@
 - **Tech stack**: EJS, Express
 - **Grafana Loki data source**: `loki|grafanacloud-logs|grafanacloud-jeffhudsonbush03-logs`
 - **Key labels**: `service_name="adservice"`
+- **Grafana PromQL data source**: `promql|grafanacloud-jeffhudsonbush03-proms`
+- **Key labels**: `service_name="adservice"`
 
 ## Links
 - [Service Dashboard](https://jeffhudsonbush03.grafana.net/d/je99hcj/ad-service)
