@@ -7,6 +7,7 @@
 
 ## Links
 - [Service Dashboard](https://jeffhudsonbush03.grafana.net/d/je99hcj/ad-service)
+- [Grafana Metrics](https://jeffhudsonbush03.grafana.net/a/grafana-metricsdrilldown-app/drilldown)
 - [GitHub Repository](https://github.com/jeffhudsonbush/eCommerce-adservice)
 
 ## Incident Workflows
